@@ -2,7 +2,7 @@ package Find;
 
 import java.util.Scanner;
 
-public class Palindrome {
+public class PalindromeInteger {
 	public static void main(String[] args) throws Exception {
 
 		
