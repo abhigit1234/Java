@@ -12,7 +12,7 @@ package AbstractClass;
   
   If class is final - It cannot be implemented
   
-  -----------------
+  
   */
   
 final class test1 {
