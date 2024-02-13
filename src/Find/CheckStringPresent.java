@@ -8,7 +8,7 @@ public class CheckStringPresent {
 
 		String s = "Hello Mr Abhilash".toLowerCase();
 
-		boolean b = Pattern.matches(".*mr.*", s);
+		boolean b = Pattern.matches(".*a.*", s);
 		
 		if (b) {
 			System.out.println("True");
