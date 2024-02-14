@@ -1,7 +1,7 @@
 package Find;
 
 
-public class findStringLen {
+public class FindStringLen {
 	public static void main(String[] args) {
 
 		
