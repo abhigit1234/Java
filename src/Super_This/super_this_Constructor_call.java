@@ -36,6 +36,6 @@ public class super_this_Constructor_call {
 
 	public static void main(String[] args) {
 		
-		A a = new A();
+		B b = new B();
 	}
 }
