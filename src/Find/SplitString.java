@@ -8,7 +8,7 @@ public class SplitString {
 		String s = "automation is my job";
 		String[]  ss = s.split("\\s");
 		for(String x : ss) {
-			System.out.println(x.charAt(3));
+			System.out.println(x.charAt(2));
 		}
 		
 		
