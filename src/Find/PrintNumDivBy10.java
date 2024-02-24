@@ -1,4 +1,4 @@
-package Utilities;
+package Find;
 
 public class PrintNumDivBy10 {
 	public static void main(String[] args) {
