@@ -4,7 +4,7 @@ public class ArraysMulti {
 
 	public static void main(String[] args) {
 
-
+//
 		/* for size
 		 * 
 		 * int[][] arr = {{11,22,33,44,32,55},{66,77,88,99,100}}; for(int
