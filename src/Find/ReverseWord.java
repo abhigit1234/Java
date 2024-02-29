@@ -1,12 +1,9 @@
-package Demo;
+package Find;
 
 public class ReverseWord {
 
 	public static void main(String[] args) {
-	
-	
-	
-	
+		
 		String s = "hello abhilash how are you";
 		String[] s1=s.split(" ");
 		int temp=0;
