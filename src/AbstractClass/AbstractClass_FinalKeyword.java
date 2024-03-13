@@ -1,6 +1,4 @@
 package AbstractClass;
-
-//
  /*  Abstraction : It is a class who's object cannot be created. Any thing normal
   java class have, an abstract class can also have. Inside a class even a
   single method or abstract method is present then a class must define
