@@ -4,7 +4,7 @@ public class Encapsulation1 {
 
 	/*
 	 * The process of grouping data members and correspondent methods inside class
-	 */	
+	 *///	First we set value and next we get value , print getvalue.
 	private int roll;
 	private String name;
 	private boolean isAttended;
