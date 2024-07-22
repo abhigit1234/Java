@@ -9,33 +9,29 @@ package Super_This;
 //this() we are calling current class constructor
 
 class A {
-	
-	
+
 	public A() {
 		this(2);
 	}
 
 	A(int x) {
-		
+
 		System.out.println(x);
 	}
 
-	
 }
 
-
-class B{
+class B {
 	public B() {
 		super();
 		System.out.println("B");
 	}
 }
 
-
 public class super_this_Constructor_call {
 
 	public static void main(String[] args) {
-		
+
 		A b = new A();
 	}
 }
